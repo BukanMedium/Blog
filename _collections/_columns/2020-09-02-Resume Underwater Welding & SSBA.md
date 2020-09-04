@@ -4,13 +4,13 @@ title:  "Resume Underwater Welding & SSBA"
 author: Slhnj
 date:   2020-09-02
 image: https://live.staticflickr.com/65535/49174126032_8744230f39_n.jpg
-position: right
+
 image_caption: Untuk memahami secara umum pengelasan bawah air dan penyelaman SSBA
 ---
 
 Nama 		: M Shulhan J
 
-##RESUME PERALATAN SSBA & UNDERWATER WELDING  
+RESUME PERALATAN SSBA & UNDERWATER WELDING  
   
 Sejarah  
 Pengelasan bawah air dimulai pada Perang Dunia pertama saat Angkatan laut Inggris melakukan perbaikan sementara pada kapal-kapal mereka yang meliputi lambung kapal yang bocor. Sebelumnya, pengelasan bawah air  hanya terbatas pada operasi penyelamatan dan perbaikan emergensi saja. Hal tersebut juga hanya terbatas sampai 10 meter.
